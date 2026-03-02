@@ -1,16 +1,17 @@
-# 👋 Hi, I'm Joshualover!
+# 🊕 Hi, I'm Joshualover!
 
-## 🚀 Projects
+## �: Projects
 
 - **RustChain Contributor** - Building the future of decentralized computing with [RustChain](https://github.com/Scottcjn/Rustchain)
+- **BoTTQube Contributor** - AI-powered YouTube automation with [BoTTube](https://github.com/Scottcjn/BoTtube) ![[BoTtube](https://img.shields.io/badge/BoTTube-AI_YouTube-blue.svg)]
 
-## 💡 Interests
+## 💩 Interests
 
 - Blockchain & Web3
 - Rust Programming
 - Open Source
 
-## 📫 Connect
+## 💫 Connect
 
 Feel free to reach out!
 
